@@ -3,7 +3,7 @@
 
 Name:           nautilus-open-any-terminal
 Version:        0.6.0
-Release:        0%{?dist}
+Release:        1%{?dist}
 Summary:        An extension for nautilus, which adds an context-entry for opening other terminal emulators than gnome-terminal
 
 License:        GPL-3.0-only
@@ -47,4 +47,7 @@ glib-compile-schemas /usr/share/glib-2.0/schemas
 
 
 %changelog
+* Sat Jan 04 2025 Daniel Wutke <dwu.public@gmail.com> 0.6.0-1
+- Package version 0.6.0 with tito
+
 %autochangelog
