@@ -9,7 +9,7 @@ Summary:        An extension for nautilus, which adds an context-entry for openi
 License:        GPL-3.0-only
 URL:            https://github.com/Stunkymonkey/nautilus-open-any-terminal
 Source0:        %{name}-%{version}.tar.gz
-# SOURCE URL:   https://github.com/Stunkymonkey/nautilus-open-any-terminal/archive/refs/tags/%{version}.tar.gz
+# SOURCE URL:   https://github.com/Stunkymonkey/nautilus-open-any-terminal/archive/refs/tags/<version>.tar.gz
 
 ExclusiveArch:  x86_64
 
